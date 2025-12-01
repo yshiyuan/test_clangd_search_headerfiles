@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: build
+  Compiler: /usr/bin/g++
+  BuiltinHeaders: QueryDriver
+
